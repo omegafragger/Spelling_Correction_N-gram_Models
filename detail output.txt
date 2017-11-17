@@ -1,0 +1,213 @@
+
+Scanning = You
+After suggestion index = 11
+Pronounciation = yuw1
+Word = ewe
+Word = u
+Word = uwe
+Word = yew
+Word = yoo
+Word = yu
+Word = yue
+After phoneme index = 7
+The suggested words for the word you are : ewe(1.453112)
+The suggested words for the word you are : your(0.002990)
+The suggested words for the word you are : lou(0.000064)
+The suggested words for the word you are : lou(0.000064)
+The suggested words for the word you are : lou(0.000064)
+
+Entering DANGER ZONE
+-6.864568 - <s>ewe Bigram Match FOUND
+-3.174958 - <s>your Bigram Match FOUND
+0.000000 - <s>lou Bigram Match NOT FOUND
+0.000000 - <s>lou Bigram Match NOT FOUND
+-2.254310 - <s>you Bigram Match FOUND
+<s> you (null)(0.104946)
+<s> your (null)(0.041796)
+<s> ewe (null)(0.001044)
+<s> lou (null)(0.000000)
+<s> lou (null)(0.000000)
+
+Scanning = want
+After suggestion index = 22
+Pronounciation = waa1nt
+After phoneme index = 0
+The suggested words for the word want are : went(0.001847)
+The suggested words for the word want are : wait(0.001589)
+The suggested words for the word want are : wants(0.001343)
+The suggested words for the word want are : wane(0.000230)
+The suggested words for the word want are : wont(0.000120)
+
+Entering DANGER ZONE
+-3.264224 - youwent Bigram Match FOUND
+0.000000 - youwait Bigram Match NOT FOUND
+0.000000 - youwants Bigram Match NOT FOUND
+0.000000 - youwane Bigram Match NOT FOUND
+-2.824813 - youwant Bigram Match FOUND
+0.000000 - yourwent Bigram Match NOT FOUND
+0.000000 - yourwait Bigram Match NOT FOUND
+0.000000 - yourwants Bigram Match NOT FOUND
+0.000000 - yourwane Bigram Match NOT FOUND
+0.000000 - yourwant Bigram Match NOT FOUND
+0.000000 - ewewent Bigram Match NOT FOUND
+0.000000 - ewewait Bigram Match NOT FOUND
+0.000000 - ewewants Bigram Match NOT FOUND
+0.000000 - ewewane Bigram Match NOT FOUND
+0.000000 - ewewant Bigram Match NOT FOUND
+0.000000 - louwent Bigram Match NOT FOUND
+0.000000 - louwait Bigram Match NOT FOUND
+0.000000 - louwants Bigram Match NOT FOUND
+0.000000 - louwane Bigram Match NOT FOUND
+0.000000 - louwant Bigram Match NOT FOUND
+0.000000 - louwent Bigram Match NOT FOUND
+0.000000 - louwait Bigram Match NOT FOUND
+0.000000 - louwants Bigram Match NOT FOUND
+0.000000 - louwane Bigram Match NOT FOUND
+0.000000 - louwant Bigram Match NOT FOUND
+Loop ends
+<s> you want (null)(0.006225)
+<s> you went (null)(0.004012)
+<s> you wants (null)(0.000000)
+<s> you wane (null)(0.000000)
+<s> you wait (null)(0.000000)
+
+Scanning = the
+After suggestion index = 24
+Pronounciation = dhah0
+After phoneme index = 0
+The suggested words for the word the are : then(0.004717)
+The suggested words for the word the are : they(0.002816)
+The suggested words for the word the are : them(0.001589)
+The suggested words for the word the are : she(0.001133)
+The suggested words for the word the are : he(0.001116)
+
+Entering DANGER ZONE
+0.000000 - wantthen Bigram Match NOT FOUND
+0.000000 - wantthey Bigram Match NOT FOUND
+0.000000 - wantthem Bigram Match NOT FOUND
+0.000000 - wantshe Bigram Match NOT FOUND
+-1.223816 - wantthe Bigram Match FOUND
+0.000000 - wentthen Bigram Match NOT FOUND
+0.000000 - wentthey Bigram Match NOT FOUND
+0.000000 - wentthem Bigram Match NOT FOUND
+0.000000 - wentshe Bigram Match NOT FOUND
+0.000000 - wentthe Bigram Match NOT FOUND
+0.000000 - wantsthen Bigram Match NOT FOUND
+0.000000 - wantsthey Bigram Match NOT FOUND
+0.000000 - wantsthem Bigram Match NOT FOUND
+0.000000 - wantsshe Bigram Match NOT FOUND
+0.000000 - wantsthe Bigram Match NOT FOUND
+0.000000 - wanethen Bigram Match NOT FOUND
+0.000000 - wanethey Bigram Match NOT FOUND
+0.000000 - wanethem Bigram Match NOT FOUND
+0.000000 - waneshe Bigram Match NOT FOUND
+0.000000 - wanethe Bigram Match NOT FOUND
+0.000000 - waitthen Bigram Match NOT FOUND
+0.000000 - waitthey Bigram Match NOT FOUND
+0.000000 - waitthem Bigram Match NOT FOUND
+0.000000 - waitshe Bigram Match NOT FOUND
+0.000000 - waitthe Bigram Match NOT FOUND
+Loop ends
+<s> you want the (null)(0.001831)
+<s> you want they (null)(0.000000)
+<s> you want them (null)(0.000000)
+<s> you want she (null)(0.000000)
+<s> you want then (null)(0.000000)
+
+Scanning = peace
+After suggestion index = 8
+Pronounciation = piy1s
+Word = piece
+After phoneme index = 1
+The suggested words for the word peace are : piece(0.731001)
+The suggested words for the word peace are : place(0.002231)
+The suggested words for the word peace are : pace(0.000978)
+The suggested words for the word peace are : pace(0.000978)
+The suggested words for the word peace are : pace(0.000978)
+
+Entering DANGER ZONE
+-4.082151 - thepiece Bigram Match FOUND
+-3.930661 - theplace Bigram Match FOUND
+-4.701370 - thepace Bigram Match FOUND
+-4.701370 - thepace Bigram Match FOUND
+-4.179121 - thepeace Bigram Match FOUND
+0.000000 - theypiece Bigram Match NOT FOUND
+-3.409325 - theyplace Bigram Match FOUND
+0.000000 - theypace Bigram Match NOT FOUND
+0.000000 - theypace Bigram Match NOT FOUND
+0.000000 - theypeace Bigram Match NOT FOUND
+0.000000 - thempiece Bigram Match NOT FOUND
+0.000000 - themplace Bigram Match NOT FOUND
+0.000000 - thempace Bigram Match NOT FOUND
+0.000000 - thempace Bigram Match NOT FOUND
+0.000000 - thempeace Bigram Match NOT FOUND
+0.000000 - shepiece Bigram Match NOT FOUND
+0.000000 - sheplace Bigram Match NOT FOUND
+0.000000 - shepace Bigram Match NOT FOUND
+0.000000 - shepace Bigram Match NOT FOUND
+0.000000 - shepeace Bigram Match NOT FOUND
+0.000000 - thenpiece Bigram Match NOT FOUND
+0.000000 - thenplace Bigram Match NOT FOUND
+0.000000 - thenpace Bigram Match NOT FOUND
+0.000000 - thenpace Bigram Match NOT FOUND
+0.000000 - thenpeace Bigram Match NOT FOUND
+Loop ends
+<s> you want the place (null)(0.000036)
+<s> you want the piece (null)(0.000031)
+<s> you want the peace (null)(0.000028)
+<s> you want the pace (null)(0.000017)
+<s> you want the pace (null)(0.000017)
+
+Scanning = of
+0.000000 - placeof Bigram Match NOT FOUND
+0.000000 - pieceof Bigram Match NOT FOUND
+-2.212367 - peaceof Bigram Match FOUND
+0.000000 - paceof Bigram Match NOT FOUND
+0.000000 - paceof Bigram Match NOT FOUND
+<s> you want the peace of (null)(0.000003) - <s> you want the piece of (null)(0.000000) - <s> you want the place of (null)(0.000000) - <s> you want the pace of (null)(0.000000) - <s> you want the pace of (null)(0.000000) -
+Scanning = cke
+After suggestion index = 16
+Pronounciation = ray1tbrey1s
+After phoneme index = 0
+The suggested words for the word cke are : ce(0.000573)
+The suggested words for the word cke are : cake(0.000358)
+The suggested words for the word cke are : cake(0.000358)
+The suggested words for the word cke are : cake(0.000358)
+The suggested words for the word cke are : cake(0.000358)
+
+Entering DANGER ZONE
+0.000000 - ofce Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofce Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofce Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofce Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofce Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+0.000000 - ofcake Bigram Match NOT FOUND
+Loop ends
+<s> you want the peace of ce (null)(0.000000)
+<s> you want the peace of cake (null)(0.000000)
+<s> you want the peace of cake (null)(0.000000)
+<s> you want the peace of cake (null)(0.000000)
+<s> you want the peace of cake (null)(0.000000)
+DONE
+
+Process returned 0 (0x0)   execution time : 137.790 s
+Press any key to continue.

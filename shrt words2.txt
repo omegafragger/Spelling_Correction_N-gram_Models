@@ -1,0 +1,9 @@
+sn sion
+tn tion
+tr ter
+gt get
+10 ten
+dr der
+pr per
+ls less
+-- --

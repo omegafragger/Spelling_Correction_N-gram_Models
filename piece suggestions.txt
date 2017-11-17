@@ -1,0 +1,299 @@
+-6.864568 - <s> Bigram Match FOUND
+-0.894598 - <s>the Bigram Match FOUND
+
+Scanning = peace
+After suggestion index = 121
+Pronounciation = piy1s
+Word = pease(1)
+Word = piece
+After phoneme index = 2
+ace     P(w) = 0.000987 P(x|w) = 0.163770
+alace   P(w) = 0.000286 P(x|w) = 0.141078
+apace   P(w) = 0.002002 P(x|w) = 0.192733
+beac    P(w) = 0.000432 P(x|w) = 0.098183
+beach   P(w) = 0.002412 P(x|w) = 0.042144
+beate   P(w) = 0.000532 P(x|w) = 0.103799
+blace   P(w) = 0.000286 P(x|w) = 0.080320
+brace   P(w) = 0.001161 P(x|w) = 0.090153
+cease   P(w) = 0.007337 P(x|w) = 0.168133
+deface  P(w) = 0.000286 P(x|w) = 0.038073
+eac     P(w) = 0.000658 P(x|w) = 0.214682
+each    P(w) = 0.028302 P(x|w) = 0.158643
+ease    P(w) = 0.006706 P(x|w) = 0.239342
+ecce    P(w) = 0.000658 P(x|w) = 0.194246
+ece     P(w) = 0.002027 P(x|w) = 0.194246
+ence    P(w) = 0.000286 P(x|w) = 0.214901
+face    P(w) = 0.020778 P(x|w) = 0.129745
+fence   P(w) = 0.003436 P(x|w) = 0.096172
+grace   P(w) = 0.003345 P(x|w) = 0.086112
+hace    P(w) = 0.000286 P(x|w) = 0.132671
+heave   P(w) = 0.000532 P(x|w) = 0.025380
+hence   P(w) = 0.013399 P(x|w) = 0.099098
+ieae    P(w) = 0.000286 P(x|w) = 0.235577
+keane   P(w) = 0.000432 P(x|w) = 0.070756
+lace    P(w) = 0.000843 P(x|w) = 0.175731
+leach   P(w) = 0.000286 P(x|w) = 0.085901
+lease   P(w) = 0.002694 P(x|w) = 0.166600
+leave   P(w) = 0.017762 P(x|w) = 0.068440
+lecce   P(w) = 0.000432 P(x|w) = 0.121503
+menace  P(w) = 0.002641 P(x|w) = 0.115681
+nace    P(w) = 0.003138 P(x|w) = 0.174059
+oece    P(w) = 0.000286 P(x|w) = 0.123175
+pac     P(w) = 0.000286 P(x|w) = 0.188630
+paca    P(w) = 0.000532 P(x|w) = 0.222422
+pace    P(w) = 0.008790 P(x|w) = 0.111211
+pace.   P(w) = 0.000286 P(x|w) = 0.128870
+paced   P(w) = 0.000286 P(x|w) = 0.176212
+pacem   P(w) = 0.000432 P(x|w) = 0.144393
+paces   P(w) = 0.000532 P(x|w) = 0.191956
+pack    P(w) = 0.006880 P(x|w) = 0.115672
+paco    P(w) = 0.000919 P(x|w) = 0.167408
+pacs    P(w) = 0.000758 P(x|w) = 0.171706
+pact    P(w) = 0.017721 P(x|w) = 0.190773
+pacte   P(w) = 0.001049 P(x|w) = 0.190773
+page    P(w) = 0.006728 P(x|w) = 0.132044
+palace  P(w) = 0.002641 P(x|w) = 0.212145
+pale    P(w) = 0.002350 P(x|w) = 0.170345
+pame    P(w) = 0.000286 P(x|w) = 0.133791
+pane    P(w) = 0.000432 P(x|w) = 0.180016
+pare    P(w) = 0.000532 P(x|w) = 0.151131
+pave    P(w) = 0.005685 P(x|w) = 0.115130
+paye    P(w) = 0.000286 P(x|w) = 0.150662
+pea     P(w) = 0.000432 P(x|w) = 0.187665
+peace   P(w) = 0.026837 P(x|w) = 0.000000
+peace-  P(w) = 0.000532 P(x|w) = 0.000000
+peace.  P(w) = 0.001949 P(x|w) = 0.017660
+peach   P(w) = 0.001049 P(x|w) = 0.021380
+peaches P(w) = 0.001717 P(x|w) = 0.102125
+peachy  P(w) = 0.000286 P(x|w) = 0.064374
+peak    P(w) = 0.003873 P(x|w) = 0.014609
+peake   P(w) = 0.000432 P(x|w) = 0.009842
+peaked  P(w) = 0.001473 P(x|w) = 0.074843
+peaker  P(w) = 0.000286 P(x|w) = 0.096739
+peaks   P(w) = 0.002077 P(x|w) = 0.070336
+pear    P(w) = 0.000758 P(x|w) = 0.128228
+pearce  P(w) = 0.000286 P(x|w) = 0.039920
+pearl   P(w) = 0.001307 P(x|w) = 0.099476
+pearle  P(w) = 0.000658 P(x|w) = 0.099476
+pears   P(w) = 0.001717 P(x|w) = 0.100415
+peas    P(w) = 0.001717 P(x|w) = 0.149172
+peat    P(w) = 0.003449 P(x|w) = 0.161613
+peaty   P(w) = 0.000432 P(x|w) = 0.120600
+peau    P(w) = 0.000286 P(x|w) = 0.103933
+pec     P(w) = 0.000286 P(x|w) = 0.134402
+peccei  P(w) = 0.000286 P(x|w) = 0.153963
+pech    P(w) = 0.000432 P(x|w) = 0.078362
+peck    P(w) = 0.000286 P(x|w) = 0.061443
+peco    P(w) = 0.000286 P(x|w) = 0.113179
+pegase  P(w) = 0.000532 P(x|w) = 0.125281
+peice   P(w) = 0.000286 P(x|w) = 0.124151
+pele    P(w) = 0.000286 P(x|w) = 0.184365
+penance P(w) = 0.000843 P(x|w) = 0.146443
+pence   P(w) = 0.001212 P(x|w) = 0.077638
+penco   P(w) = 0.000286 P(x|w) = 0.133835
+perch   P(w) = 0.000532 P(x|w) = 0.082585
+percy   P(w) = 0.000286 P(x|w) = 0.098769
+pere    P(w) = 0.000286 P(x|w) = 0.178749
+perle   P(w) = 0.000919 P(x|w) = 0.120339
+pesc    P(w) = 0.000843 P(x|w) = 0.126479
+pesca   P(w) = 0.001434 P(x|w) = 0.160271
+petare  P(w) = 0.000286 P(x|w) = 0.118799
+petre   P(w) = 0.001307 P(x|w) = 0.118799
+phare   P(w) = 0.007501 P(x|w) = 0.061300
+phase   P(w) = 0.012938 P(x|w) = 0.123459
+piece   P(w) = 0.010966 P(x|w) = 0.199692
+place   P(w) = 0.037465 P(x|w) = 0.059556
+place.  P(w) = 0.003094 P(x|w) = 0.077216
+placed  P(w) = 0.013937 P(x|w) = 0.124558
+placer  P(w) = 0.000532 P(x|w) = 0.146454
+places  P(w) = 0.013031 P(x|w) = 0.140302
+plaice  P(w) = 0.002371 P(x|w) = 0.182000
+plaie   P(w) = 0.000286 P(x|w) = 0.182000
+plane   P(w) = 0.005147 P(x|w) = 0.128362
+plate   P(w) = 0.003080 P(x|w) = 0.142591
+please  P(w) = 0.015634 P(x|w) = 0.161635
+poach   P(w) = 0.000658 P(x|w) = 0.077577
+pomace  P(w) = 0.000532 P(x|w) = 0.090979
+preach  P(w) = 0.003657 P(x|w) = 0.090769
+preface P(w) = 0.001779 P(x|w) = 0.084190
+price   P(w) = 0.019607 P(x|w) = 0.193541
+race    P(w) = 0.008537 P(x|w) = 0.164723
+reach   P(w) = 0.020634 P(x|w) = 0.074892
+react   P(w) = 0.009808 P(x|w) = 0.133074
+seac    P(w) = 0.000432 P(x|w) = 0.132325
+seae    P(w) = 0.000286 P(x|w) = 0.172450
+space   P(w) = 0.013344 P(x|w) = 0.166116
+teach   P(w) = 0.005368 P(x|w) = 0.095516
+tease   P(w) = 0.001161 P(x|w) = 0.176215
+trace   P(w) = 0.004889 P(x|w) = 0.143525
+weare   P(w) = 0.000286 P(x|w) = 0.040756
+weave   P(w) = 0.001212 P(x|w) = 0.004756
+pease(1)        P(w) = 1.000000 P(x|w) = 0.113304
+        P(w) = 1.000000 P(x|w) = 0.000000
+        P(x) = 0.113304
+        P(x) = 0.004490
+        P(x) = 0.003795
+        P(x) = 0.003381
+        P(x) = 0.002696
+beate   P(x) = 0.002527
+blace   P(x) = 0.002231
+brace   P(x) = 0.002217
+cease   P(x) = 0.002190
+deface  P(x) = 0.001828
+eac     P(x) = 0.001736
+each    P(x) = 0.001605
+ease    P(x) = 0.001597
+ecce    P(x) = 0.001545
+ece     P(x) = 0.001406
+ence    P(x) = 0.001328
+face    P(x) = 0.001305
+fence   P(x) = 0.001234
+grace   P(x) = 0.001216
+hace    P(x) = 0.000978
+heave   P(x) = 0.000888
+hence   P(x) = 0.000796
+ieae    P(x) = 0.000702
+keane   P(x) = 0.000661
+lace    P(x) = 0.000655
+leach   P(x) = 0.000560
+lease   P(x) = 0.000557
+leave   P(x) = 0.000546
+lecce   P(x) = 0.000513
+menace  P(x) = 0.000460
+nace    P(x) = 0.000449
+oece    P(x) = 0.000439
+pac     P(x) = 0.000431
+paca    P(x) = 0.000400
+pace    P(x) = 0.000394
+pace.   P(x) = 0.000386
+paced   P(x) = 0.000332
+pacem   P(x) = 0.000330
+paces   P(x) = 0.000306
+pack    P(x) = 0.000288
+paco    P(x) = 0.000256
+pacs    P(x) = 0.000239
+pact    P(x) = 0.000230
+pacte   P(x) = 0.000205
+page    P(x) = 0.000200
+palace  P(x) = 0.000175
+pale    P(x) = 0.000172
+pame    P(x) = 0.000162
+pane    P(x) = 0.000155
+pare    P(x) = 0.000154
+pave    P(x) = 0.000150
+paye    P(x) = 0.000148
+pea     P(x) = 0.000146
+peace   P(x) = 0.000141
+peace-  P(x) = 0.000130
+peace.  P(x) = 0.000130
+peach   P(x) = 0.000128
+peaches P(x) = 0.000123
+peachy  P(x) = 0.000118
+peak    P(x) = 0.000111
+peake   P(x) = 0.000110
+peaked  P(x) = 0.000107
+peaker  P(x) = 0.000105
+peaks   P(x) = 0.000102
+pear    P(x) = 0.000102
+pearce  P(x) = 0.000097
+pearl   P(x) = 0.000094
+pearle  P(x) = 0.000081
+pears   P(x) = 0.000080
+peas    P(x) = 0.000078
+peat    P(x) = 0.000078
+peaty   P(x) = 0.000067
+peau    P(x) = 0.000067
+pec     P(x) = 0.000065
+peccei  P(x) = 0.000062
+pech    P(x) = 0.000061
+peck    P(x) = 0.000057
+peco    P(x) = 0.000057
+pegase  P(x) = 0.000055
+peice   P(x) = 0.000054
+pele    P(x) = 0.000053
+penance P(x) = 0.000052
+pence   P(x) = 0.000052
+penco   P(x) = 0.000052
+perch   P(x) = 0.000051
+percy   P(x) = 0.000051
+pere    P(x) = 0.000050
+perle   P(x) = 0.000049
+pesc    P(x) = 0.000048
+pesca   P(x) = 0.000044
+petare  P(x) = 0.000044
+petre   P(x) = 0.000043
+phare   P(x) = 0.000042
+phase   P(x) = 0.000040
+piece   P(x) = 0.000038
+place   P(x) = 0.000038
+place.  P(x) = 0.000038
+placed  P(x) = 0.000038
+placer  P(x) = 0.000037
+places  P(x) = 0.000036
+plaice  P(x) = 0.000035
+plaie   P(x) = 0.000034
+plane   P(x) = 0.000034
+plate   P(x) = 0.000034
+please  P(x) = 0.000032
+poach   P(x) = 0.000031
+pomace  P(x) = 0.000030
+preach  P(x) = 0.000028
+preface P(x) = 0.000028
+price   P(x) = 0.000025
+race    P(x) = 0.000023
+reach   P(x) = 0.000022
+react   P(x) = 0.000018
+seac    P(x) = 0.000018
+seae    P(x) = 0.000014
+space   P(x) = 0.000012
+teach   P(x) = 0.000011
+tease   P(x) = 0.000011
+trace   P(x) = 0.000006
+weare   P(x) = 0.000004
+weave   P(x) = 0.000000
+pease(1)        P(x) = 0.000000
+        P(x) = 0.000000
+The suggested words are : (0.113304)
+The suggested words are : (0.004490)
+The suggested words are : (0.003795)
+The suggested words are : (0.003381)
+The suggested words are : (0.002696)
+
+Entering DANGER ZONE
+-1.367412 - the Bigram Match FOUND
+-1.367412 - the Bigram Match FOUND
+-1.367412 - the Bigram Match FOUND
+-1.367412 - the Bigram Match FOUND
+-4.179121 - thepeace Bigram Match FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+-1.532620 - peace Bigram Match FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+-1.532620 - peace Bigram Match FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+-1.532620 - peace Bigram Match FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+0.000000 -  Bigram Match NOT FOUND
+-1.532620 - peace Bigram Match FOUND
+Loop ends
+<s> the  (null)(0.663538)
+<s> the  (null)(0.663538)
+<s> the  (null)(0.663538)
+<s> the  (null)(0.663538)
+<s> the peace (null)(0.424084)
+
+Scanning = of
+DONE
+
+Process returned 0 (0x0)   execution time : 27.311 s
+Press any key to continue.
